@@ -3,8 +3,8 @@
 		<title>A quick test</title>
 	</head>
 		
-	 <body>
+
 	  Hello world!
-	 </body>
+
 	 
 </html>
